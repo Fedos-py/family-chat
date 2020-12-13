@@ -3,3 +3,4 @@ def send_message(sender, recipient, message):
     print(message)
 
 send_message('Fedos', 'Feodor', "Hi! It's my first message :)")
+send_message('Feodor', 'Fedos', "Hi! How are you?")
